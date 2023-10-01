@@ -1,9 +1,9 @@
-# Persistent command history addon
-Persistent command history for the blender console.
-open a new scene, or restart Blender without losing your blender console history.
+# Persistent console history addon
+Persistent console history for your commands in Blender's console.
+Open a new scene, or restart Blender without losing your blender console history.
 Speed up your development now! ⚡ 
 
-## isntructions
+## instructions
 - install & enable the add-on
 - commands should auto restore now
 
